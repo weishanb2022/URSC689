@@ -1,1 +1,8 @@
-Hello World!
+# Site settings
+title: URSC 689
+description: Code on Google colab
+url: https://weishanb2022.github.io/URSC689.github.io/
+baseurl: ""
+
+# Build settings
+theme: jekyll-theme-minimal
